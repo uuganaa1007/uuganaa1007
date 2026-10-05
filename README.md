@@ -55,7 +55,17 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 ## 🏆 Holopin Badges
 
-[![An image of @uuganaa1007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uuganaa1007)](https://holopin.io/@uuganaa1007)
+<p align="center">
+  <a href="https://holopin.io/@uuganaa1007#badges"><img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150" alt="Hacktoberfest 2025: Level 0 Registered" title="Hacktoberfest 2025: Level 0 Registered" /></a>
+  <a href="https://holopin.io/@uuganaa1007#badges"><img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150" alt="Hacktoberfest 2025: Level 1" title="Hacktoberfest 2025: Level 1" /></a>
+  <a href="https://holopin.io/@uuganaa1007#badges"><img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="150" alt="Hacktoberfest 2025: Level 2" title="Hacktoberfest 2025: Level 2" /></a>
+  <a href="https://holopin.io/@uuganaa1007#badges"><img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="150" alt="Hacktoberfest 2025: Level 3" title="Hacktoberfest 2025: Level 3" /></a>
+</p>
+<p align="center">
+  <a href="https://holopin.io/@uuganaa1007#badges"><img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="150" alt="Hacktoberfest 2025: Level 4" title="Hacktoberfest 2025: Level 4" /></a>
+  <a href="https://holopin.io/@uuganaa1007#badges"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Hacktoberfest 2025: Tree Planted" title="Hacktoberfest 2025: Tree Planted" /></a>
+  <a href="https://holopin.io/@uuganaa1007#badges"><img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150" alt="Hacktoberfest 2025: Supercontributor" title="Hacktoberfest 2025: Supercontributor" /></a>
+</p>
 
 ---
 
