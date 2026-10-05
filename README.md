@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Uuganaa
+# 👋 Hi, I'm Uuganbayar
 
 ### Full-Stack Developer · TypeScript · Node.js · MongoDB · Docker
 
