@@ -158,9 +158,6 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
   <a href="https://www.linkedin.com/in/%D1%81-%D1%83%D1%83%D0%B3%D0%B0%D0%BD%D0%B1%D0%B0%D1%8F%D1%80-089bb2352/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:suuganbayr948@gmail.com">
-    <img src="https://img.shields.io/badge/Email-suuganbayr948%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
