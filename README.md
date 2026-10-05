@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm S.Uuganbayar
 
-### Full-Stack Developer · TypeScript · Node.js · MongoDB · Docker
+### Full-Stack Developer · TypeScript · React · Node.js · GraphQL · MongoDB
 
 <p align="left">
   <a href="https://github.com/uuganaa1007">
