@@ -116,7 +116,7 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=uuganaa1007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=uuganaa1007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&title=PullRequest,Commits,LongTimeUser,NewUser" alt="GitHub trophies" />
 </p>
 
 ---
@@ -133,29 +133,7 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 ---
 
-## 💻 What I Like Building
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  🚀 SaaS Applications                       │
-│  🔌 API & Third-party Integrations          │
-│  🤖 Automation & AI                         │
-│  📊 Data & Analytics                        │
-│  ☁️  Distributed Systems                    │
-│  🐳 Containerized Infrastructure            │
-│  🗄️  Database-heavy Applications            │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
 ## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/uuganaa1007"><img src="https://ghchart.rshah.org/7aa2f7/uuganaa1007" alt="Uuganaa's GitHub contribution graph" width="100%" /></a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;label=Total%20Contributions&amp;color=7aa2f7&amp;url=https%3A%2F%2Fstreak-stats.demolab.com%3Fuser%3Duuganaa1007%26type%3Djson&amp;query=%24.totalContributions" alt="Total contributions" />
