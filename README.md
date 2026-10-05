@@ -106,7 +106,9 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 ## 📈 Contribution Graph
 
-[![Uuganaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uuganaa1007&theme=tokyo-night&hide_border=true)](https://github.com/uuganaa1007)
+<p align="center">
+  <a href="https://github.com/uuganaa1007"><img src="https://ghchart.rshah.org/7aa2f7/uuganaa1007" alt="Uuganaa's GitHub contribution graph" width="100%" /></a>
+</p>
 
 ---
 
