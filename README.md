@@ -108,10 +108,6 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 ## 📊 GitHub Stats
 
-<details>
-<summary><b>Show stats, streak and trophies</b></summary>
-<br />
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uuganaa1007&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uuganaa1007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
@@ -124,8 +120,6 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=uuganaa1007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&title=PullRequest,Commits,LongTimeUser,NewUser" alt="GitHub trophies" />
 </p>
-
-</details>
 
 ---
 
