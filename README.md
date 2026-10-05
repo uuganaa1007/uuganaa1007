@@ -2,6 +2,16 @@
 
 ### Full-Stack Developer · TypeScript · Node.js · MongoDB · Docker
 
+<p align="left">
+  <a href="https://github.com/uuganaa1007">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Contributor;Building+scalable+SaaS+applications;TypeScript+%7C+Node.js+%7C+MongoDB+%7C+Docker" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=uuganaa1007&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+</p>
+
 I'm a software engineer who enjoys building scalable web applications, APIs, integrations, and developer tools.
 
 I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distributed systems**.
@@ -86,6 +96,21 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 ---
 
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=uuganaa1007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+</p>
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 💻 What I Like Building
 
 ```text
@@ -108,6 +133,14 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 <p align="center">
   <a href="https://github.com/uuganaa1007"><img src="https://ghchart.rshah.org/7aa2f7/uuganaa1007" alt="Uuganaa's GitHub contribution graph" width="100%" /></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
