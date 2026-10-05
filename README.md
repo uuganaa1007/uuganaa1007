@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=200&section=header&text=Uuganbayar&fontSize=56&fontColor=c0caf5&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Platform%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Uuganbayar · Full-Stack · Platform Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=200&section=header&text=S.Uuganbayar&fontSize=56&fontColor=c0caf5&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Platform%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="S.Uuganbayar · Full-Stack · Platform Engineer" />
 </p>
 
-# 👋 Hi, I'm Uuganbayar
+# 👋 Hi, I'm S.Uuganbayar
 
 ### Full-Stack Developer · TypeScript · Node.js · MongoDB · Docker
 
