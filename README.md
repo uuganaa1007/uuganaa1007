@@ -158,6 +158,13 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;label=Total%20Contributions&amp;color=7aa2f7&amp;url=https%3A%2F%2Fstreak-stats.demolab.com%3Fuser%3Duuganaa1007%26type%3Djson&amp;query=%24.totalContributions" alt="Total contributions" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;label=Current%20Streak&amp;color=bb9af7&amp;url=https%3A%2F%2Fstreak-stats.demolab.com%3Fuser%3Duuganaa1007%26type%3Djson&amp;query=%24.currentStreak.length&amp;suffix=%20days" alt="Current streak" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;label=Longest%20Streak&amp;color=9ece6a&amp;url=https%3A%2F%2Fstreak-stats.demolab.com%3Fuser%3Duuganaa1007%26type%3Djson&amp;query=%24.longestStreak.length&amp;suffix=%20days" alt="Longest streak" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;label=Contributing%20Since&amp;color=e0af68&amp;url=https%3A%2F%2Fstreak-stats.demolab.com%3Fuser%3Duuganaa1007%26type%3Djson&amp;query=%24.firstContribution" alt="Contributing since" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/github-snake.svg" />
