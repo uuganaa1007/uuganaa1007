@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=200&section=header&text=Uuganbayar&fontSize=56&fontColor=c0caf5&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Platform%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Uuganbayar · Full-Stack · Platform Engineer" />
+</p>
+
 # 👋 Hi, I'm Uuganbayar
 
 ### Full-Stack Developer · TypeScript · Node.js · MongoDB · Docker
 
 <p align="left">
   <a href="https://github.com/uuganaa1007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Contributor;Building+scalable+SaaS+applications;TypeScript+%7C+Node.js+%7C+MongoDB+%7C+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&vCenter=true&width=600&lines=%D0%A1%D0%B0%D0%B9%D0%BD+%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0+%D1%83%D1%83!;Full-Stack+Developer;Open+Source+Contributor;Building+scalable+SaaS+applications;TypeScript+%7C+Node.js+%7C+MongoDB+%7C+Docker" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,6 +27,12 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 * 📈 Observability with **Prometheus & Grafana** (kube-prometheus-stack)
 * 🚢 Managing releases for erxes (v3.2.x)
 * 🏆 Hacktoberfest 2025 **Supercontributor**
+* 📍 Based in Mongolia 🇲🇳
+
+## 🔭 Currently
+
+* 🛠️ Building the **erxes** SaaS platform (erxes-next)
+* ☸️ Running erxes SaaS on Kubernetes across Hetzner Cloud & GCP
 
 ---
 
@@ -98,30 +108,36 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 ## 📊 GitHub Stats
 
+<details>
+<summary><b>Show stats, streak and trophies</b></summary>
+<br />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uuganaa1007&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uuganaa1007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=uuganaa1007&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🏅 GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=uuganaa1007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&title=PullRequest,Commits,LongTimeUser,NewUser" alt="GitHub trophies" />
 </p>
 
+</details>
+
 ---
 
-## ⚡ Recent Activity
+## ⚡ Open Source
+
+<p align="center">
+  <a href="https://github.com/erxes/erxes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erxes&repo=erxes&theme=tokyonight&hide_border=true" alt="erxes repository" />
+  </a>
+</p>
+
+**Recent activity**
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v3.2.11](https://github.com/erxes/erxes/releases/tag/3.2.11) in [erxes/erxes](https://github.com/erxes/erxes)
@@ -174,4 +190,8 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:3d59a1,100:1a1b26&height=110&section=footer" width="100%" alt="" />
 </p>
