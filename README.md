@@ -107,6 +107,11 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v3.2.11](https://github.com/erxes/erxes/releases/tag/3.2.11) in [erxes/erxes](https://github.com/erxes/erxes)
+2. 🚀 Published release [v3.2.9](https://github.com/erxes/erxes/releases/tag/3.2.9) in [erxes/erxes](https://github.com/erxes/erxes)
+3. 🚀 Published release [v3.2.7](https://github.com/erxes/erxes/releases/tag/3.2.7) in [erxes/erxes](https://github.com/erxes/erxes)
+4. 🎉 Merged PR [#9509](https://github.com/erxes/erxes/pull/9509) in [erxes/erxes](https://github.com/erxes/erxes)
+5. 💪 Opened PR [#9509](https://github.com/erxes/erxes/pull/9509) in [erxes/erxes](https://github.com/erxes/erxes)
 <!--END_SECTION:activity-->
 
 ---
