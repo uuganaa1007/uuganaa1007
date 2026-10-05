@@ -16,13 +16,13 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 ## 🚀 About Me
 
-* 💻 Full-stack developer
-* 🧩 Building and maintaining large-scale SaaS applications
-* 🔌 Experienced with APIs, third-party integrations, and automation
-* 🗄️ Working with MongoDB and large datasets
-* 🐳 Docker & containerized deployments
-* ☁️ Interested in scalable infrastructure and distributed systems
-* 🌱 Always learning and experimenting with new technologies
+* 🧩 Core contributor to **[erxes](https://github.com/erxes/erxes)**, an open-source experience operating system (XOS): 500+ commits, plugin and API development
+* 🕸️ Building **GraphQL Federation** microservices with Apollo, Node.js and TypeScript in an **Nx monorepo**
+* ☸️ Running production **Kubernetes** with GitOps: ArgoCD, Talos, Cilium, Traefik, cert-manager, Sealed Secrets
+* 🏗️ Infrastructure as Code with **Terraform**, **Ansible** and **Packer** on Hetzner Cloud & GCP
+* 📈 Observability with **Prometheus & Grafana** (kube-prometheus-stack)
+* 🚢 Managing releases for erxes (v3.2.x)
+* 🏆 Hacktoberfest 2025 **Supercontributor**
 
 ---
 
@@ -50,6 +50,18 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Cloud & DevOps
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Tools
 
