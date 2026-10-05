@@ -166,9 +166,9 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/bomberman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/bomberman.svg" />
+    <img alt="Bomberman blowing up the contribution graph" src="https://raw.githubusercontent.com/uuganaa1007/uuganaa1007/output/bomberman-dark.svg" />
   </picture>
 </p>
 
