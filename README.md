@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · TypeScript · Node.js · MongoDB · Docker
 
-I’m a software engineer who enjoys building scalable web applications, APIs, integrations, and developer tools.
+I'm a software engineer who enjoys building scalable web applications, APIs, integrations, and developer tools.
 
 I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distributed systems**.
 
@@ -24,38 +24,38 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Database & Infrastructure
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🏆 Holopin Badges
 
-[![Holopin Badges](https://holopin.io/api/user/board?user=uuganaa1007)](https://www.holopin.io/@uuganaa1007#badges)
+[![An image of @uuganaa1007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uuganaa1007)](https://holopin.io/@uuganaa1007)
 
 ---
 
@@ -86,7 +86,7 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 │  🤖 Automation & AI                         │
 │  📊 Data & Analytics                        │
 │  ☁️  Distributed Systems                    │
-│  🐳 Containerized Infrastructure             │
+│  🐳 Containerized Infrastructure            │
 │  🗄️  Database-heavy Applications            │
 │                                             │
 └─────────────────────────────────────────────┘
@@ -96,7 +96,7 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 ## 📈 Contribution Graph
 
-[![Uuganaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uuganaa1007\&theme=tokyo-night\&hide_border=true)](https://github.com/uuganaa1007)
+[![Uuganaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uuganaa1007&theme=tokyo-night&hide_border=true)](https://github.com/uuganaa1007)
 
 ---
 
@@ -114,7 +114,7 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 ---
 
 <p align="center">
-  <i>“Build things that make a difference.”</i>
+  <i>"Build things that make a difference."</i>
 </p>
 
 <p align="center">
