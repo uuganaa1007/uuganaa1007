@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=uuganaa1007&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://hits.sh/github.com/uuganaa1007.svg?style=for-the-badge&label=Profile%20Views&color=7aa2f7" alt="Profile views" />
 </p>
 
 I'm a software engineer who enjoys building scalable web applications, APIs, integrations, and developer tools.
