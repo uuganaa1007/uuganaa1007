@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=200&section=header&text=S.Uuganbayar&fontSize=56&fontColor=c0caf5&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Platform%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="S.Uuganbayar · Full-Stack · Platform Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=200&section=header&text=S.Uuganbayar&fontSize=56&fontColor=c0caf5&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="S.Uuganbayar · Full-Stack Developer" />
 </p>
 
 # 👋 Hi, I'm S.Uuganbayar
@@ -22,9 +22,7 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 
 * 🧩 Core contributor to **[erxes](https://github.com/erxes/erxes)**, an open-source experience operating system (XOS): 500+ commits, plugin and API development
 * 🕸️ Building **GraphQL Federation** microservices with Apollo, Node.js and TypeScript in an **Nx monorepo**
-* ☸️ Running production **Kubernetes** with GitOps: ArgoCD, Talos, Cilium, Traefik, cert-manager, Sealed Secrets
-* 🏗️ Infrastructure as Code with **Terraform**, **Ansible** and **Packer** on Hetzner Cloud & GCP
-* 📈 Observability with **Prometheus & Grafana** (kube-prometheus-stack)
+* 🐳 Shipping erxes SaaS services with **Docker** and **Kubernetes** deployment configs
 * 🚢 Managing releases for erxes (v3.2.x)
 * 🏆 Hacktoberfest 2025 **Supercontributor**
 * 📍 Based in Mongolia 🇲🇳
@@ -32,7 +30,6 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 ## 🔭 Currently
 
 * 🛠️ Building the **erxes** SaaS platform (erxes-next)
-* ☸️ Running erxes SaaS on Kubernetes across Hetzner Cloud & GCP
 
 ---
 
@@ -63,21 +60,9 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Cloud & DevOps
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 ### Tools
 
