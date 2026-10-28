@@ -119,11 +119,11 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 **Recent activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.2.11](https://github.com/erxes/erxes/releases/tag/3.2.11) in [erxes/erxes](https://github.com/erxes/erxes)
-2. 🚀 Published release [v3.2.9](https://github.com/erxes/erxes/releases/tag/3.2.9) in [erxes/erxes](https://github.com/erxes/erxes)
-3. 🚀 Published release [v3.2.7](https://github.com/erxes/erxes/releases/tag/3.2.7) in [erxes/erxes](https://github.com/erxes/erxes)
-4. 🎉 Merged PR [#9509](https://github.com/erxes/erxes/pull/9509) in [erxes/erxes](https://github.com/erxes/erxes)
-5. 💪 Opened PR [#9509](https://github.com/erxes/erxes/pull/9509) in [erxes/erxes](https://github.com/erxes/erxes)
+1. 🚀 Published release [v3.4.5](https://github.com/erxes/erxes/releases/tag/3.4.5) in [erxes/erxes](https://github.com/erxes/erxes)
+2. 🎉 Merged PR [#10040](https://github.com/erxes/erxes/pull/10040) in [erxes/erxes](https://github.com/erxes/erxes)
+3. 💪 Opened PR [#10040](https://github.com/erxes/erxes/pull/10040) in [erxes/erxes](https://github.com/erxes/erxes)
+4. 🎉 Merged PR [#10033](https://github.com/erxes/erxes/pull/10033) in [erxes/erxes](https://github.com/erxes/erxes)
+5. 💪 Opened PR [#10033](https://github.com/erxes/erxes/pull/10033) in [erxes/erxes](https://github.com/erxes/erxes)
 <!--END_SECTION:activity-->
 
 ---
