@@ -119,11 +119,11 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 **Recent activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/erxes/call-desktop/pull/1) in [erxes/call-desktop](https://github.com/erxes/call-desktop)
-2. 💪 Opened PR [#1](https://github.com/erxes/call-desktop/pull/1) in [erxes/call-desktop](https://github.com/erxes/call-desktop)
-3. 💪 Opened PR [#101](https://github.com/erxes/frontline-plugin/pull/101) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
-4. 🚀 Published release [v3.4.22](https://github.com/erxes/erxes/releases/tag/3.4.22) in [erxes/erxes](https://github.com/erxes/erxes)
-5. 🎉 Merged PR [#10425](https://github.com/erxes/erxes/pull/10425) in [erxes/erxes](https://github.com/erxes/erxes)
+1. 🎉 Merged PR [#101](https://github.com/erxes/frontline-plugin/pull/101) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
+2. 🎉 Merged PR [#1](https://github.com/erxes/call-desktop/pull/1) in [erxes/call-desktop](https://github.com/erxes/call-desktop)
+3. 💪 Opened PR [#1](https://github.com/erxes/call-desktop/pull/1) in [erxes/call-desktop](https://github.com/erxes/call-desktop)
+4. 💪 Opened PR [#101](https://github.com/erxes/frontline-plugin/pull/101) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
+5. 🚀 Published release [v3.4.22](https://github.com/erxes/erxes/releases/tag/3.4.22) in [erxes/erxes](https://github.com/erxes/erxes)
 <!--END_SECTION:activity-->
 
 ---
