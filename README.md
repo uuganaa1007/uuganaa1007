@@ -119,11 +119,11 @@ I mainly work with **TypeScript, Node.js, React, MongoDB, Docker, and distribute
 **Recent activity**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.4.28](https://github.com/erxes/erxes/releases/tag/3.4.28) in [erxes/erxes](https://github.com/erxes/erxes)
-2. 🎉 Merged PR [#295](https://github.com/erxes/frontline-plugin/pull/295) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
-3. ℹ️ Labeled PR [#295](https://github.com/erxes/frontline-plugin/pull/295) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
-4. ℹ️ Labeled PR [#295](https://github.com/erxes/frontline-plugin/pull/295) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
-5. 💪 Opened PR [#295](https://github.com/erxes/frontline-plugin/pull/295) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
+1. ℹ️ Labeled PR [#312](https://github.com/erxes/frontline-plugin/pull/312) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
+2. 💪 Opened PR [#312](https://github.com/erxes/frontline-plugin/pull/312) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
+3. 🚀 Published release [v3.4.30](https://github.com/erxes/erxes/releases/tag/3.4.30) in [erxes/erxes](https://github.com/erxes/erxes)
+4. 🚀 Published release [v3.4.28](https://github.com/erxes/erxes/releases/tag/3.4.28) in [erxes/erxes](https://github.com/erxes/erxes)
+5. 🎉 Merged PR [#295](https://github.com/erxes/frontline-plugin/pull/295) in [erxes/frontline-plugin](https://github.com/erxes/frontline-plugin)
 <!--END_SECTION:activity-->
 
 ---
